@@ -44,3 +44,9 @@ main h2 {
 .stans-styles {
     background-color:lightgray;
 }
+
+.lol-style {
+    color: hotpink;
+    background-color: black;
+    padding: 3px;
+}
